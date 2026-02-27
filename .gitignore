@@ -1,0 +1,50 @@
+# ================================
+# Maven / Java
+# ================================
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Maven target folder
+/target/
+
+# Maven wrapper files (optional, if you include them)
+/.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse files (if someone uses Eclipse)
+*.classpath
+*.project
+*.settings/
+
+# ================================
+# IntelliJ IDEA
+# ================================
+
+# IDEA project files
+/.idea/
+/*.iml
+/out/
+
+# Code style and workspace files (optional, keep if you want to share IDE settings)
+# /codestyles/
+/workspace.xml
+# /misc.xml
+
+# ================================
+# OS-specific files
+# ================================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db

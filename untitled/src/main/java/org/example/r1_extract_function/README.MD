@@ -1,4 +1,4 @@
-# Extract Method
+# Extract Method / Extract Method
 
 Break a long method into smaller, well-named methods for clarity.(Fowler, 2nd Edition, p.106)
 
